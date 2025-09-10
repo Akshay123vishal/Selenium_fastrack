@@ -15,7 +15,7 @@ public class ScrollTomethod {
 		jse.executeScript("window.scrollTo(0,500)");
 		Thread.sleep(3000);
 		jse.executeScript("window.scrollTo(0,0)");
-		Thread.sleep(2000);
+		
 	}
 
 }
