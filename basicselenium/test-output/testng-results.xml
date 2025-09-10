@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-09T14:58:52 IST" name="Default suite" finished-at="2025-09-09T15:00:14 IST" duration-ms="82077">
+    <groups>
+    </groups>
+    <test started-at="2025-09-09T14:58:52 IST" name="Default test" finished-at="2025-09-09T15:00:14 IST" duration-ms="82077">
+      <class name="javaScriptExecutor.hiddenElement">
+        <test-method signature="HiddenElementTest()[pri:0, instance:javaScriptExecutor.hiddenElement@5e0826e7]" started-at="2025-09-09T14:58:52 IST" name="HiddenElementTest" finished-at="2025-09-09T15:00:14 IST" duration-ms="82030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HiddenElementTest -->
+      </class> <!-- javaScriptExecutor.hiddenElement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
